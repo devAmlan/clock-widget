@@ -1,0 +1,13 @@
+.clockContainer {
+  background-color: #000000;
+  color: #ffffff;
+  width: 400px;
+  height: 100px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+}
